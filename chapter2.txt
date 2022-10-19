@@ -1,1 +1,3 @@
-This is the second chapter text -- version 1.
+This is Chapter 2 text -- version 1.
+This file is modified in side story branch as a demo mod.
+
